@@ -162,7 +162,7 @@ img, video, audio, iframe, table, form {
 
 .wrapper {
   width: 1000px;
-  margin: 0 auto;
+  margin: 10 auto;
 }
 
 .col-1 {
