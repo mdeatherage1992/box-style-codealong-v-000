@@ -231,7 +231,7 @@ header {
 #navbar nav a {
   display: inline-block;
   width: 16%;
-  margin: 1px;
+  margin: 0;
   padding: 10px 0;
   text-transform: uppercase;
   color: black;
