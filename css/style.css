@@ -193,7 +193,7 @@ img, video, audio, iframe, table, form {
 
 #social {
   position: fixed;
-  top: 100px;
+  top: 40px;
   right: 20px;
   width: 40px;
   z-index: 1;
